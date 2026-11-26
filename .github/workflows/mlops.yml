@@ -3,7 +3,7 @@ name: MLOps - Bitcoin Order Model
 on:
  push:
   branches: [mlops-workshop]
-  workflow_dispatch:
+ workflow_dispatch:
 
 permissions:
  contents: read
